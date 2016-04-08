@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Power/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>181</Column0><Column1>0</Column1><Column2>27</Column2><Column3>14677140</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><ColumnWidth0>50</ColumnWidth0><ColumnWidth1>724</ColumnWidth1><ColumnWidth2>193</ColumnWidth2><ColumnWidth3>48</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows></Debug-Log><Find-in-Files><ColumnWidth0>303</ColumnWidth0><ColumnWidth1>43</ColumnWidth1><ColumnWidth2>520</ColumnWidth2><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows></Find-in-Files><Disassembly><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly></Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18611-13347</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Power</ExpandedNode><ExpandedNode>Power/HardDev.c</ExpandedNode><ExpandedNode>Power/main.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3><Tabs><Tab><Identity>TabID-16652-23123</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-12454-14292</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.3\8051\inc\ioc8051f000.h</Filename><XPos>0</XPos><YPos>1030</YPos><SelStart>38257</SelStart><SelEnd>38257</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\Core51\Power\HardDev.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>53</SelStart><SelEnd>53</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.3\8051\src\examples\Analog Devices\ADE7169Fxx\easy_meter\main.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\Core51\Power\Power.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>48</SelStart><SelEnd>61</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\Core51\Power\HardDev.c</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>739</SelStart><SelEnd>739</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>E:\Core51\Power\main.c</Filename><XPos>0</XPos><YPos>189</YPos><SelStart>4918</SelStart><SelEnd>4918</SelEnd></Tab><ActiveTab>5</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-012990e8><key>iaridepm.enu1</key></Toolbar-012990e8></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>554</Bottom><Right>228</Right><x>-2</x><y>-2</y><xscreen>-2473858</xscreen><yscreen>-1709355</yscreen><sizeHorzCX>-2147446180</sizeHorzCX><sizeHorzCY>-2147430904</sizeHorzCY><sizeVertCX>199653</sizeVertCX><sizeVertCY>698492</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1154</Right><x>-2</x><y>-2</y><xscreen>1156</xscreen><yscreen>200</yscreen><sizeHorzCX>1003472</sizeHorzCX><sizeHorzCY>251256</sizeHorzCY><sizeVertCX>195313</sizeVertCX><sizeVertCY>285176</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
